@@ -30,4 +30,4 @@ This project explores the application of transfer learning techniques using ResN
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repository/CT-Scan-COVID-19.git
+   git clone https://github.com/TheReinforce43/CT-Scan-COVID-19-dataset-using-ResNet152.git
